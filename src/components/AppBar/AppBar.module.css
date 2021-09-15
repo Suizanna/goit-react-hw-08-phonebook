@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 4px solid var(--accentColor);
+  /* border-image: var(--accentColor); */
+
+  /* background-color: hsl(212, 43%, 73%); */
+  /* box-shadow: var(--boxShadow); */
+}

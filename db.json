@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "wqPBWGxq0tXHfNBV9kR-e",
+      "name": "baby shark",
+      "number": "111-11-11"
+    },
+    {
+      "id": "dzuhKl4LQq1kg-ry1Nn2D",
+      "name": "mommy shark",
+      "number": "222-22-22"
+    },
+    {
+      "id": "cZfxOSaG45WvuzZgRQE0j",
+      "name": "daddy shark",
+      "number": "333-33-33"
+    },
+    {
+      "id": "hSgmK-nDCHCdk-tioQASH",
+      "name": "grandpa shark",
+      "number": "444-44-44"
+    }
+  ]
+}

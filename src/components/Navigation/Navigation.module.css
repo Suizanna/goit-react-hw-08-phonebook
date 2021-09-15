@@ -1,0 +1,27 @@
+.nav {
+  display: flex;
+  /* justify-content: flex-end;
+   */
+  justify-content: space-between;
+  /* align-items: center; */
+  /* min-height: 80px; */
+  padding: 0 40px;
+  /* background-color: #34495e; */
+  /* box-shadow: var(--boxShadow); */
+}
+.link {
+  display: inline-block;
+  padding: 20px 0;
+  font-weight: 700;
+  color: var(--primaryTextColor);
+  font-size: 20px;
+}
+
+.activeLink {
+  /* composes: link; */
+  color: var(--accentColor);
+}
+
+.link:not(:last-child) {
+  margin-right: 30px;
+}

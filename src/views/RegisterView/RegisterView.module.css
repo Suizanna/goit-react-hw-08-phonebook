@@ -1,0 +1,39 @@
+.form {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.textField {
+  margin-bottom: 20px !important;
+  width: 100%;
+  background-color: #fff !important;
+}
+
+.label {
+  display: block;
+  margin-bottom: 20px;
+  color: var(--secondaryTextColor);
+  font-weight: 500;
+  font-size: 20px;
+}
+
+input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  width: 100%;
+  border: 1px solid rgba(33, 33, 33, 0.2);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.input:focus {
+  outline-color: var(--accentColor);
+}
